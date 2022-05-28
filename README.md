@@ -2,7 +2,9 @@
 ...
 
 
-lorem epsum
+
+lorem ıpsum
+
 
 dolar
 
